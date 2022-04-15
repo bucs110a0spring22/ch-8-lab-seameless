@@ -8,18 +8,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < The code is designed to test the test strings for five different tests, some of which change the strings accordingly.The driver code gives expected code, while the test executes and shows 'got'. >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 2
 
-Grace days remaining: < # >/5
+Grace days remaining: 0/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+Vowels is causing an assertion error, but I don't understand why; 'interesting' is correctly showing 4, but still causes the exit. I presume it may be due to an issue with the iteration, but I don't know for sure and was not able to get any word on the reason from TAs/professor. The other code I believe is in shape to be functional.
 
 ## REFERENCES:
- < List any outside resources used >
+None
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+I do not understand why the code is exiting given the code is showing the correct output in vowels for 'interesting', so I don't know how this should be approached. Please feel free to reach out with any information on this.
