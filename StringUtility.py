@@ -63,4 +63,5 @@ If the parameter is length 1 or less, return the parameter as is.
         else:
           letter = i
         ciph += letter
+      return ciph
         
